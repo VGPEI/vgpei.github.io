@@ -1,3 +1,4 @@
 title: Video Game Playthrough Encoding Initiative
 description: Home of the VGPEI Schema
-theme: ekyll-theme-modernist
+#theme: ekyll-theme-modernist
+remote_theme: just-the-docs/just-the-docs
